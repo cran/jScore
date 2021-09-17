@@ -1,0 +1,14 @@
+e1621e24a9cf016db4eef8009f7e0c2d *DESCRIPTION
+05b719ab81e3abdaa2949c413974ca19 *LICENSE
+4a9d916cf581e8326f5460f9e792ab1c *NAMESPACE
+316176a619f96217be71c8de69267b72 *NEWS.md
+8c1cbda56a38523270b95899d1ae9b12 *R/jscore.R
+8168ba635c3399cb8a8bfc3158b59e1f *README.md
+5bd7c1322ff066713bfa23daed9b0ada *build/vignette.rds
+cd2ea218bb868bf197117f80ab712a19 *inst/doc/jscore.R
+c6100e28da94ce27a736a00c069aaf0e *inst/doc/jscore.Rmd
+7bb06d8652f71c8beba98b4e3c81bb50 *inst/doc/jscore.html
+f99c01899eb10a5b6a7f668cb76b6deb *man/jscore.Rd
+423fc4b1dfafa4b3d6a2fde2f507a383 *tests/testthat.R
+9d08a6b67cbfd37902cc73a968711f51 *tests/testthat/test-check_output.R
+c6100e28da94ce27a736a00c069aaf0e *vignettes/jscore.Rmd
